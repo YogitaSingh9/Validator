@@ -1,5 +1,6 @@
 # Validator
 <b>Project Overview</b>
+
 The Form Validator is an essential component of a comprehensive web application designed to streamline and enhance the user experience when submitting data through web forms. This aims to provide developers with a reliable and customizable frontend solution for validating user inputs in web forms, ensuring data accuracy and security.
 
 <b>Key Features</b>
@@ -11,4 +12,5 @@ Real-time Feedback: Users receive real-time feedback as they interact with the f
 User-Friendly Interface: The user interface is intuitive and user-friendly, making it easy for both developers and end-users to understand and work with the form validation system.
 
 <b>Conclusion</b>
+
 This project on GitHub offers a powerful and versatile solution for enhancing the data validation process in web forms. By providing real-time feedback, and a user-friendly interface, it empowers developers to create secure and user-friendly web applications. Whether you're building a simple contact form or a complex data submission system.
